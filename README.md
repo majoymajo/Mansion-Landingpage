@@ -1,6 +1,4 @@
-# Mansion Landing Page
-
-Welcome to the Mansion Landing Page!
+# Welcome to Mansion Landing Page !
 
 ## Features
 - Responsive design
