@@ -16,7 +16,7 @@
 
 ## ✨ About
 
-Welcome to the **Mansion Landing Page** – a stunning, pixel-perfect web experience designed to showcase luxury real estate properties. This project brings together elegant design and clean code to create a captivating first impression for potential clients exploring high-end mansion properties.
+Welcome to the **Mansion Landing Page** – a stunning, pixel-perfect web experience designed to showcase luxury real estate properties. This project brings together elegant design and clean code to create an immersive digital storefront for high-end properties.
 
 Built from a professional Figma design, this landing page features a sophisticated layout with:
 - 🎨 **Premium Design** - Elegant typography and refined visual hierarchy
