@@ -121,6 +121,5 @@ This project is open source and available for educational purposes.
 
 ### ⭐ If you found this project helpful, please consider giving it a star!
 
-Made with ❤️ and attention to detail
 
 </div>
